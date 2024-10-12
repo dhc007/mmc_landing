@@ -40,10 +40,10 @@ const ContactUs = () => {
       <div className="contact-container">
         <div className="get-in-touch">
           <h2>Get in Touch</h2>
-          <p>Phone:(068914)+65 90556461</p>
+          <p>Whatsapp: +65 90556461</p>
           <p>Email: team@maritimemarvelcruises.com</p>
           <p>Address: Singapore Business Federation Center
-          #14-04, 160 Robinson Road,Singapore</p>
+          #14-04, 160 Robinson Road, Singapore (068914)</p>
           <div className="social-icons">
             <i className="fab fa-facebook-f"></i>
             <i className="fab fa-instagram"></i>

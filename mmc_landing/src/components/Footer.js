@@ -10,7 +10,7 @@ const Footer = () => {
         </div>
         <div className="footer-right">
           <p><strong>Connect with us</strong></p>
-          <p>(068914)+65 90556461</p>
+          <p>+65 90556461</p>
           <p>team@maritimemarvelcruises.com</p>
         </div>
       </div>
