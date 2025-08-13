@@ -7,7 +7,7 @@ function Hero() {
   return (
     <section
       className="hero"
-      style={{ backgroundImage: 'url(/assets/images/ship_hero.png)' }} // image is in public/assets/images
+      style={{ backgroundImage: 'url(mmc_landing/public/assets/images/ship_hero.png)' }} // image is in public/assets/images
     >
       <Header />
 
@@ -27,3 +27,4 @@ function Hero() {
 }
 
 export default Hero;
+
